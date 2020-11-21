@@ -47,3 +47,10 @@ Next to it another map shows the number of tweets or the average sentiment of ea
 <p align="center">
   <img align="center" src='./images/dashboard4.JPG'> 
 </p>
+
+
+## Usage
+
+Clone the repository and run the app.R file. 
+
+All the required packages will be downloaded when you run the app if they aren't yet.
