@@ -1,0 +1,57 @@
+.navbar {
+    background-color: #303030;
+    color: #ffffff
+    }
+
+.h4-title {
+    color: #ffffff;
+    font-size: large;
+    }
+
+.nav .h4 {
+    color: #93fff4;
+    font-size: large;
+    }
+
+.navbar-nav > .active > a, .navbar-nav > .visited > a {
+    background-color:#93fff4 !important;
+    }
+
+.navbar-nav > .active > a > h4 {
+    color: #303030 !important;
+    }
+
+    .navbar-nav a:hover, .navbar-nav a:hover > h4 {
+    color: #303030 !important;
+    background-color: #f7f7f7 !important;
+    }
+
+.btn-file {  
+    background-color:#303030; 
+    border-color: #303030; 
+    color:#ffffff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    }
+
+.btn-file:hover {  
+        background-color:#93fff4; 
+        border-color: #93fff4;
+        color:#303030; 
+       }
+
+.progress-bar {
+        background-color:#93fff4;
+        color: #303030;
+       }
+.input {
+       background-color:#93fff4;  
+       }
+   
+.js-irs-0 .irs-single, .js-irs-0 .irs-bar-edge, .js-irs-0 .irs-bar {
+           background: #93fff4;
+           border-color: #93fff4;
+           color: #303030;
+       }
