@@ -4,7 +4,8 @@ Shiny dashboard developed in R for sentiment analysis of US president and govern
 
 ## Description
 
-This is a project developed for my Data Science's Master's, that's why it is in Spanish. 
+This is a project developed for my Data Science's Master's (that's why it is in Spanish). 
+
 The idea is to be able to study interactively the relationship between the sentiment and the amount of tweets posted by the president of the US and the 50 governors thruought the early stages of the 2020 pandemic. 
 Some other variables are included like Dow Jones index or the dollar-to-euro value.
 
